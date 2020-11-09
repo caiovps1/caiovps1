@@ -31,7 +31,10 @@
 
 ### :ok_hand: Main Projects
 
-Soon!
+- *(in progress)* [Retail Company Sales Analysis (in portuguese)](https://github.com/caiovps1/Retail-Sales-Analysis/blob/main/project.ipynb)
+
+
+More soon!
 
 
 ### :wrench: Languages and Tools
