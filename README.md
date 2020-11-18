@@ -7,7 +7,7 @@
 
 - I'm an ***Electrical Engineer*** from the ***Federal University of Campina Grande (UFCG)*** :zap:
 - Fell in love with ***Data Science*** after my graduation :mag_right::chart_with_upwards_trend:
-- My main interests are ***Machine Learning***, ***Deep Learning*** and ***Artificial Intelligence*** :two_hearts:
+- My main interests are ***Machine Learning***, ***Deep Learning***, ***Artificial Intelligence*** and ***Big Data*** :two_hearts:
 
 
 ### 🎯 Studies
@@ -16,8 +16,8 @@
 
    
   - ***(completed)*** [Data Analyst][dapath] and [Data Scientist][dspath] in Python Path, at [Dataquest][dataquest]
+  - ***(completed)*** [HCIA-AI Course][huaweicourse], provided by [Huawei][huawei] and taught by [Embedded UFCG][embedded] Courses
   - *(reading)* [Hands-On Machine Learning ith Scikit-Learn, Keras and TensorFlow (O'Reilly)][o'reillybook]
-  - *(in progress)* [HCIA-AI Course][huaweicourse], provided by [Huawei][huawei] and taught by [Embedded UFCG][embedded] Courses
   - *(in progress)* [Microsoft Power BI for Data Science][powerbidsa], at the [Data Science Academy (DSA)][dsa]
   - *(in progress)* [Data Scientist Bootcamp][bootcampigti], at the [Institute of Management and Information Technology (IGTI)][igti]
   - *(waiting for the start)* [Post graduation in Data Science and AI][pospucrs], at the [Pontifical Catholic University of Rio Grande do Sul (PUCRS)][pucrs]
