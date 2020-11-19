@@ -12,12 +12,13 @@
 
 ### 🎯 Studies
 
-- I'm focusing on topics concerning ***Machine Learning*** and ***Deep Learning***, alongside with ***BI Data Visualization Tools***, such as ***Tableau*** and ***Power BI***
+- I'm focusing on topics concerning ***Machine Learning*** and ***Deep Learning***, alongside with **Big Data*** tools, such as ***Hadoop*** and ***Spark***
 
    
   - ***(completed)*** [Data Analyst][dapath] and [Data Scientist][dspath] in Python Path, at [Dataquest][dataquest]
   - ***(completed)*** [HCIA-AI Course][huaweicourse], provided by [Huawei][huawei] and taught by [Embedded UFCG][embedded] Courses
   - *(reading)* [Hands-On Machine Learning ith Scikit-Learn, Keras and TensorFlow (O'Reilly)][o'reillybook]
+  - *(in progress)* ["Formação Engenheiro de Dados: Domine Big Data!"][udemybigdata] Course, at [Udemy][udemy]
   - *(in progress)* [Microsoft Power BI for Data Science][powerbidsa], at the [Data Science Academy (DSA)][dsa]
   - *(in progress)* [Data Scientist Bootcamp][bootcampigti], at the [Institute of Management and Information Technology (IGTI)][igti]
   - *(waiting for the start)* [Post graduation in Data Science and AI][pospucrs], at the [Pontifical Catholic University of Rio Grande do Sul (PUCRS)][pucrs]
@@ -69,6 +70,8 @@ More soon!
 [dspath]: https://www.dataquest.io/path/data-scientist/
 [dataquest]: https://www.dataquest.io/
 [o'reillybook]: https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646
+[udemybigdata]: https://www.udemy.com/course/engenheiro-de-dados/
+[udemy]: https://www.udemy.com/
 [huaweicourse]: https://talent.huaweiuniversity.com/portal/courses/HuaweiX+EBGTC00000296/about
 [huawei]: https://www.huawei.com/en/
 [embedded]: https://www.embedded.ufcg.edu.br/
