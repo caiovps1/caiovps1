@@ -17,12 +17,12 @@
    
   - ***(completed)*** [Data Analyst][dapath] and [Data Scientist][dspath] in Python Path, at [Dataquest][dataquest]
   - ***(completed)*** [HCIA-AI Course][huaweicourse], provided by [Huawei][huawei] and taught by [Embedded UFCG][embedded] Courses
-  - *(reading)* [Hands-On Machine Learning ith Scikit-Learn, Keras and TensorFlow (O'Reilly)][o'reillybook]
+  - ***(completed)*** [Cyber & Cloud Experience Seminar][ccseminarigti], at the [Institute of Management and Information Technology (IGTI)][igti]
+  - *(in progress)* [Data Scientist Bootcamp][bootcampigti], at the [Institute of Management and Information Technology (IGTI)][igti]
   - *(in progress)* ["Formação Engenheiro de Dados: Domine Big Data!"][udemybigdata] Course, at [Udemy][udemy]
   - *(in progress)* [Microsoft Power BI for Data Science][powerbidsa], at the [Data Science Academy (DSA)][dsa]
-  - *(in progress)* [Data Scientist Bootcamp][bootcampigti], at the [Institute of Management and Information Technology (IGTI)][igti]
   - *(waiting for the start)* [Post graduation in Data Science and AI][pospucrs], at the [Pontifical Catholic University of Rio Grande do Sul (PUCRS)][pucrs]
-  - *(waiting for the start)* [Cyber & Cloud Experience Seminar][ccseminarigti], at the [Institute of Management and Information Technology (IGTI)][igti]
+  - *(reading)* [Hands-On Machine Learning ith Scikit-Learn, Keras and TensorFlow (O'Reilly)][o'reillybook]
   
   
 ### :page_facing_up: Portfolio
