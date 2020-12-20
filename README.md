@@ -20,23 +20,15 @@
   - ***(completed)*** [Cyber & Cloud Experience Seminar][ccseminarigti], at the [Institute of Management and Information Technology (IGTI)][igti]
   - *(in progress)* [Data Scientist Bootcamp][bootcampigti], at the [Institute of Management and Information Technology (IGTI)][igti]
   - *(in progress)* ["Formação Engenheiro de Dados: Domine Big Data!"][udemybigdata] Course, at [Udemy][udemy]
-  - *(in progress)* [Microsoft Power BI for Data Science][powerbidsa], at the [Data Science Academy (DSA)][dsa]
   - *(waiting for the start)* [Post graduation in Data Science and AI][pospucrs], at the [Pontifical Catholic University of Rio Grande do Sul (PUCRS)][pucrs]
-  - *(reading)* [Hands-On Machine Learning ith Scikit-Learn, Keras and TensorFlow (O'Reilly)][o'reillybook]
+  <!---  - *(reading)* [Hands-On Machine Learning ith Scikit-Learn, Keras and TensorFlow (O'Reilly)][o'reillybook]
+   - *(in progress)* [Microsoft Power BI for Data Science][powerbidsa], at the [Data Science Academy (DSA)][dsa]
+   ---!>
   
   
 ### :page_facing_up: Portfolio
 
-- You can check my portfolio markdown [here][portfoliomd]
-
-
-### :ok_hand: Main Projects
-
-- *(in progress)* [Retail Company Sales Analysis (in portuguese)](https://github.com/caiovps1/Retail-Sales-Analysis/blob/main/project.ipynb)
-
-
-More soon!
-
+- You can check out my projects [here][portfoliomd]!
 
 ### :wrench: Languages and Tools
 
@@ -56,6 +48,7 @@ More soon!
 
 
 ### 🤝 Get in touch
+Feel free to contact me in any of these social networks, anytime!
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)][mygmail]
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn%20&color=2867B2&logo=LinkedIn&style=flat-square&logoColor=white)][linkedin]
